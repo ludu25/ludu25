@@ -1,16 +1,50 @@
-## Hi there 👋
+# Meu Portfólio
 
-<!--
-**ludu25/ludu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu portfólio de desenvolvimento! Aqui você encontrará informações sobre mim, meus projetos e habilidades.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras. Tenho experiência em desenvolvimento web e programação full-stack, trabalhando com diversas tecnologias modernas.
+
+## Projetos
+
+Aqui estão alguns dos meus principais projetos:
+
+### Projeto 1
+**Descrição**: Esse projeto utiliza HTML, CSS e JavaScript para criar uma interface de usuário moderna e responsiva.  
+**Tecnologias**: HTML, CSS, JavaScript  
+**[Ver Projeto](#)**
+
+### Projeto 2
+**Descrição**: Uma aplicação completa construída com React e Node.js, que inclui uma API RESTful.  
+**Tecnologias**: React, Node.js  
+**[Ver Projeto](#)**
+
+### Projeto 3
+**Descrição**: Um sistema completo usando Python e Django para gerenciamento de conteúdo.  
+**Tecnologias**: Python, Django  
+**[Ver Projeto](#)**
+
+## Habilidades
+
+Aqui estão algumas das tecnologias com as quais trabalho frequentemente:
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Node.js
+- Angular
+- Laravel
+
+## Contato
+
+Você pode entrar em contato comigo através do e-mail [lucasventavele@hotmail.com](mailto:lucasventavele@hotmail.com) ou me encontrar nas seguintes plataformas:
+
+- [LinkedIn](#)
+- [GitHub](#)
+- [Instagram](#)
+
+---
+
+&copy; 2024 Lucas Ventavele Ribeiro. Todos os direitos reservados.
