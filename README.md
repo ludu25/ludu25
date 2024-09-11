@@ -1,10 +1,12 @@
-# Meu Portfólio
+# U+1F680 Lucas Ventavele Ribeiro
 
-Bem-vindo ao meu portfólio de desenvolvimento! Aqui você encontrará informações sobre mim, meus projetos e habilidades.
+**`Desenvolvedor Web (Full Stack) [Júnior]`**
 
-## Sobre Mim
+Olá! Sou um desenvolvedor web e programador dedicado a aprimorar constantemente minhas habilidades e adquirir novas experiências. Minha jornada na tecnologia é marcada pela busca incessante de aprendizado, e acredito que a evolução como profissional passa pela combinação de aprofundar o conhecimento existente e explorar novas ferramentas e linguagens.
 
-Sou um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras. Tenho experiência em desenvolvimento web e programação full-stack, trabalhando com diversas tecnologias modernas.
+Ao longo dos anos, trabalhei em diversos projetos que me permitiram consolidar minhas habilidades técnicas, ao mesmo tempo em que me desafiei a sair da zona de conforto e adotar novas tecnologias. Cada projeto no meu portfólio (em desenvolvimento) reflete essa evolução, desde a aplicação prática dos conceitos que domino até a experimentação com soluções inovadoras.
+
+Estou sempre aberto a novas oportunidades que me permitam crescer profissionalmente e colaborar em projetos desafiadores. Se você compartilha a paixão por tecnologia e aprendizado constante, vamos conversar! Juntos, podemos construir algo incrível. 🌟💻
 
 ## Projetos
 
@@ -31,19 +33,23 @@ Aqui estão algumas das tecnologias com as quais trabalho frequentemente:
 
 - HTML5
 - CSS3
-- JavaScript
+
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> JavaScript / Typescript
+
 - PHP
 - Node.js
 - Angular
 - Laravel
+- MySql
+- Firebase
 
 ## Contato
 
 Você pode entrar em contato comigo através do e-mail [lucasventavele@hotmail.com](mailto:lucasventavele@hotmail.com) ou me encontrar nas seguintes plataformas:
 
-- [LinkedIn](#)
-- [GitHub](#)
-- [Instagram](#)
+- [LinkedIn](https://www.linkedin.com/in/lucas-ventavele-ribeiro)
+- [GitHub](https://github.com/ludu25)
+- [Instagram](https://www.instagram.com/neverleans)
 
 ---
 
