@@ -29,17 +29,17 @@ Aqui estão alguns dos meus principais projetos:
 
 Aqui estão algumas das tecnologias com as quais trabalho frequentemente:
 
-- <img align="left" alt="HTML" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> HTML5
-- <img align="left" alt="CSS" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> CSS3
-- <img align="left" alt="JavaScript" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> JavaScript
-- <img align="left" alt="TypeScript" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> TypeScript
-- <img align="left" alt="PHP" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP
-- <img align="left" alt="NodeJS" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> NodeJS
-- <img align="left" alt="Angular" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> Angular
-- <img align="left" alt="Laravel" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> Laravel
-- <img align="left" alt="MySql" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySql
-- <img align="left" alt="Firebase" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" /> Firebase
-- <img align="left" alt="GitHub" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> GitHub
+- <img align="left" alt="HTML" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> HTML5
+- <img align="left" alt="CSS" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> CSS3
+- <img align="left" alt="JavaScript" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> JavaScript
+- <img align="left" alt="TypeScript" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> TypeScript
+- <img align="left" alt="PHP" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP
+- <img align="left" alt="NodeJS" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> NodeJS
+- <img align="left" alt="Angular" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> Angular
+- <img align="left" alt="Laravel" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> Laravel
+- <img align="left" alt="MySql" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySql
+- <img align="left" alt="Firebase" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" /> Firebase
+- <img align="left" alt="GitHub" width="25px" style="padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> GitHub
 
 ## Contato
 
